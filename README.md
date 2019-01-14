@@ -10,4 +10,4 @@ Simplest environment setup for Jenkins and Docker
 
 ### How to use it?
 1. `docker-compose up -d` to start jenkins container in daemon
-2. Access Jenkins directly via HTTP
+2. Access Jenkins at http://localhost
